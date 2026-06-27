@@ -23,7 +23,7 @@
 - 🏆 **LeetCode Knight** — **700+ Problems Solved** across DSA topics
 - 👨‍💻 **Co-Lead, Coding Club** @ IIIT Nagpur
 - 🔨 Building production-grade **voice AI systems**, **CV models**, and **agentic applications**
-- 🚀 Shipped **[Orchestra AI](https://orchestra-ai-eta.vercel.app)** — live AI voice platform with emotion detection & RAG
+- 🚀 Shipped **[Orchestra AI](https://orchestra-ai-anuj.vercel.app/)** — live AI voice platform with emotion detection & RAG
 - 💬 Ask me about **Voice AI, Deep Learning, Computer Vision, or DSA**
 - 📫 Reach me at **anuj.jakhar.2104@gmail.com**
 - 🌱 Open to **ML/AI & Software Engineering Internships**
