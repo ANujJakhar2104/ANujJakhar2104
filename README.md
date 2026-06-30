@@ -58,7 +58,7 @@
       <br/><br/>
       <code>Pipecat</code> <code>Deepgram</code> <code>Cartesia</code> <code>LightRAG</code> <code>FastAPI</code> <code>TypeScript</code>
       <br/><br/>
-      <a href="https://orchestra-ai-eta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white"/></a>
+      <a href="https://orchestra-ai-anuj.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white"/></a>
       <a href="https://github.com/ANujJakhar2104/Orchestra-AI"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
